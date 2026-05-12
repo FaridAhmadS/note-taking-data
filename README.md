@@ -57,19 +57,19 @@ Class utama yang mengatur:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/nama-repository.git
+git clone (https://github.com/FaridAhmadS/note-taking-data)
 ````
 
 ### 2. Masuk ke Folder Project
 
 ```bash
-cd nama-repository
+cd note-taking-data
 ```
 
 ### 3. Jalankan Program
 
 ```bash
-python nama_file.py
+python note taking data struktur system.py
 ```
 
 ---
@@ -84,7 +84,6 @@ Fitur utama aplikasi:
 * Riwayat perubahan
 * Hapus catatan
 
-> Tambahkan screenshot aplikasi di sini jika ada.
 
 ---
 
